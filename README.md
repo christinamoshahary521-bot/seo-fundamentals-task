@@ -33,6 +33,38 @@ Keyword research is the process of finding words and phrases users search for on
 - Google Keyword Planner
 - Ubersuggest
 - Ahrefs
+- # Search Intent
+
+## What is Search Intent?
+Search intent is the reason behind a user’s search query on Google. It helps understand what users want to find.
+
+## Informational Intent
+Informational intent means users want to learn or gain knowledge.
+
+Examples:
+- What is SEO?
+- What is blockchain?
+- How does cryptocurrency work?
+
+## Transactional Intent
+Transactional intent means users want to take action, buy, or sign up.
+
+Examples:
+- Buy Bitcoin
+- Best SEO course
+- Download crypto wallet
+
+## Web3 Niche Search Intent
+Web3 users search for blockchain, crypto, NFTs, and decentralized applications.
+
+Examples:
+- Best NFT marketplace
+- Top crypto wallets
+- How to stake Ethereum
+- Web3 internship opportunities
+
+## Importance of Search Intent
+Understanding search intent helps create better content, improve SEO rankings, and increase user satisfaction.
 
 ## Conclusion
 SEO is important for improving website visibility, increasing traffic, and growing online presence.
