@@ -91,6 +91,3 @@
 3. The Role of Social Media in Crypto Wallet Marketing
 4. Top SEO Tips for Crypto Wallet Websites
 5. How Influencer Marketing Helps Crypto Wallet Brands Grow
-| blockchain app marketing | High |
-| crypto community growth | High |
-| crypto social media marketing | High |
