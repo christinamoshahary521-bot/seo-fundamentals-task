@@ -27,14 +27,16 @@ Technical SEO helps search engines crawl and index a website efficiently. It inc
 - HTTPS security
 - Structured data
 - Fixing broken links
-
+- 
 ## Keyword Research
 Keyword research is the process of finding words and phrases users search for on Google. Tools used include:
 - Google Keyword Planner
 - Ubersuggest
 - Ahrefs
-- # Search Intent
+- ## Conclusion
+SEO is important for improving website visibility, increasing traffic, and growing online presence.
 
+- # Search Intent
 ## What is Search Intent?
 Search intent is the reason behind a user’s search query on Google. It helps understand what users want to find.
 
@@ -65,6 +67,38 @@ Examples:
 
 ## Importance of Search Intent
 Understanding search intent helps create better content, improve SEO rankings, and increase user satisfaction.
+
+# Keyword Research Tools
+## Google Keyword Planner
+Google Keyword Planner is a free tool by Google used for keyword research. It helps users find keyword ideas, search volume, competition level, and trends.
+
+Features:
+- Keyword suggestions
+- Search volume data
+- Competition analysis
+- PPC keyword planning
+
+## Ubersuggest
+Ubersuggest is an SEO and keyword research tool developed by Neil Patel. It helps users discover keyword ideas and analyze competitors.
+
+Features:
+- Keyword suggestions
+- SEO difficulty
+- Content ideas
+- Backlink analysis
+
+## Ahrefs (Basic)
+Ahrefs is a popular SEO tool used for keyword research and competitor analysis.
+
+Features:
+- Keyword difficulty
+- Backlink checker
+- Site audit
+- Competitor keyword analysis
+
+## Importance of Keyword Research Tools
+Keyword research tools help marketers find the right keywords, improve SEO rankings, increase website traffic, and understand user search behavior.
+
 
 ## Conclusion
 SEO is important for improving website visibility, increasing traffic, and growing online presence.
